@@ -26,8 +26,4 @@ A student-first hub for CSVTU resources: syllabus, previous year questions (PYQs
 - This is a student community resource and is not an official CSVTU website.
 - Content is collected from students and public sources for educational use only.
 
-**Repository Files (For Maintainers)**
-- `/Users/anurag/Desktop/CSVTU/csvtu.xml` — Blogger source file.
-- `/Users/anurag/Desktop/CSVTU/index.html` — Local preview HTML.
-- `/Users/anurag/Desktop/CSVTU/styles.css` — Site styling.
-- `/Users/anurag/Desktop/CSVTU/scripts.js` — Site scripts.
+**live : csvtu.site**
