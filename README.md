@@ -1,5 +1,7 @@
 # CSVTU Study Portal
 
+<img width="1458" height="621" alt="CSVTU" src="https://github.com/user-attachments/assets/b8c8c214-4a80-4554-a68e-473d63bfd560" />
+
 A student-first hub for CSVTU resources: syllabus, previous year questions (PYQs), notes, question banks, videos, and reference materials for B.Tech, M.Tech, and Diploma programs.
 
 **What You Will Find**
